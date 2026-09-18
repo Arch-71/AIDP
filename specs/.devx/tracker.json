@@ -1,0 +1,13 @@
+{
+  "trackerVersion": 1,
+  "updatedAt": "2026-09-17T13:22:22.119Z",
+  "tasks": {
+    "FEATURE-87451": {
+      "status": "NEEDS_CLARIFICATION",
+      "title": "As an End User, I want to access a food delivery application interface so that I can interact with the solution through a customer-facing experience",
+      "featureId": 87451,
+      "slug": "customer-food-delivery-interface",
+      "updatedAt": "2026-09-17T13:22:22.119Z"
+    }
+  }
+}

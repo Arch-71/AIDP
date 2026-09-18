@@ -1,0 +1,90 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-17T13:22:22.088Z",
+  "repoId": "84884765",
+  "repoName": "mridul227/testingastra",
+  "provider": "gitlab",
+  "repoUrl": "https://gitlab.com/mridul227/testingastra",
+  "defaultBranch": "main",
+  "allFilesMode": true,
+  "requestedFilePaths": [],
+  "includedFilePaths": [
+    "_source-manifest.json"
+  ],
+  "missingFilePaths": [],
+  "sourceFiles": [
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 3184
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 1,
+      "score": 1,
+      "size": 3185
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 2,
+      "score": 1,
+      "size": 3185
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 3,
+      "score": 1,
+      "size": 3185
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 4,
+      "score": 1,
+      "size": 3197
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 5,
+      "score": 1,
+      "size": 3187
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 6,
+      "score": 1,
+      "size": 3195
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 7,
+      "score": 1,
+      "size": 3195
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 8,
+      "score": 1,
+      "size": 3195
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 9,
+      "score": 1,
+      "size": 3194
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 10,
+      "score": 1,
+      "size": 3196
+    },
+    {
+      "path": "_source-manifest.json",
+      "chunkIndex": 11,
+      "score": 1,
+      "size": 871
+    }
+  ],
+  "warnings": []
+}
